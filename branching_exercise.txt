@@ -1,0 +1,14 @@
+Branching Exercise
+
+Previous answer: git branch -b some-new-file-name
+1. git checkout -b some-new-file-name
+
+2. A fast forward merge is when git can easily tell when all the commits happen and can put them on top of each other.
+   A recursive merge is when the commits do not follow a chronological order.
+
+Previous answer: git branch some-file-name
+3. git checkout some-file-name
+
+4. git branch -d some-file-name
+
+5. This happens when changes are committed to the same file from two different branches.
